@@ -1,0 +1,1 @@
+Year	Month	Day	Hour	DOY	Don	Ta	RH	VPD	Canopy height	SW	Rn	G	wind speed	CO2 concentration	GPP	measured ET	Rain	LAI	DataFlag
